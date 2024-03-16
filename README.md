@@ -2,7 +2,7 @@
 
 TinDog, köpek sahipleri için bir "Tinder" benzeri bir web uygulamasıdır. Bu proje, Web Development Bootcamp eğitimi kapsamında verilen bir projedir. TinDog, köpek sahiplerinin köpeklerini tanıtmak, diğer köpek sahipleriyle bağlantı kurmak ve potansiyel köpek eşleşmeleri bulmak için tasarlanmıştır.
 
-Bu projede mobil bir uygulamanın tanıtımında kullanılabilecek ürün indirme butonları, çeşitli fiyat paketleri, referanslar gibi bölümler yer alır.
+Bu projede, mobil bir uygulamanın tanıtımında kullanılabilecek ürün indirme butonları, çeşitli fiyat paketleri, referanslar gibi bölümler yer alır.
 
 ## Kurulum
 
